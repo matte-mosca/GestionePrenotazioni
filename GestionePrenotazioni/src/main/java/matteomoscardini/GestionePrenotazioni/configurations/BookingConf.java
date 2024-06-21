@@ -45,4 +45,5 @@ public class BookingConf {
     public Booking booking3() {
         return new Booking(w3, u3, LocalDate.now());
     }
+
 }
