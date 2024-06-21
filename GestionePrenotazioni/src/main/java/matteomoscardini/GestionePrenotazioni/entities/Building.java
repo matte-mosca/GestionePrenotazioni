@@ -29,4 +29,8 @@ public class Building {
         this.city = city;
     }
 
+    //Methods
+    public void addWorkStation(WorkStation workStation) {
+        workStations.add(workStation);
+    }
 }

@@ -28,6 +28,4 @@ public class WorkStation {
         this.capacity = capacity;
     }
 
-
-
 }
